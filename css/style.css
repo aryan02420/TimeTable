@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto repeat(6, 1fr);
+  grid-template-rows: auto repeat(10, 1fr);
+  grid-template-areas:  'non mon tue wed thu fri sat'
+                        'time1 mon1 tue1 wed1 thu1 fri1 sat1'
+                        'time2 mon2 tue2 wed2 thu2 fri2 sat2'
+                        'time3 mon3 tue3 wed3 thu3 fri3 sat3'
+                        'time4 mon4 tue4 wed4 thu4 fri4 sat4'
+                        'time5 mon5 tue5 wed5 thu5 fri5 sat5'
+                        'time6 mon6 tue6 wed6 thu6 fri6 sat6'
+                        'time7 mon7 tue7 wed7 thu7 fri7 sat7'
+                        'time8 mon8 tue8 wed8 thu8 fri8 sat8'
+                        'time9 mon9 tue9 wed9 thu9 fri9 sat9'
+                        'time10 mon10 tue10 wed10 thu10 fri10 sat10';
+  background-color: #ccc;
+  padding: 3px;
+  grid-gap: 3px;
+  justify-content: space-around;
+  align-content: space-around;
+  width: 100%;
+  height: 100vh;
+}
+
+@media (min-aspect-ratio: 1/1) {
+  .grid-container {
+    grid-template-rows: auto repeat(6, 1fr);
+    grid-template-columns: auto repeat(10, 1fr);
+    grid-template-areas:  'non time1 time2 time3 time4 time5 time6 time7 time8 time9 time10'
+                          'mon mon1 mon2 mon3 mon4 mon5 mon6 mon7 mon8 mon9 mon10'
+                          'tue tue1 tue2 tue3 tue4 tue5 tue6 tue7 tue8 tue9 tue10'
+                          'wed wed1 wed2 wed3 wed4 wed5 wed6 wed7 wed8 wed9 wed10'
+                          'thu thu1 thu2 thu3 thu4 thu5 thu6 thu7 thu8 thu9 thu10'
+                          'fri fri1 fri2 fri3 fri4 fri5 fri6 fri7 fri8 fri9 fri10'
+                          'sat sat1 sat2 sat3 sat4 sat5 sat6 sat7 sat8 sat9 sat10';
+  }
+}
+
+.grid-item {
+  display: grid;
+  background-color: #777;
+  color: #ccc;
+  border-radius: 4px;
+  text-align: center;
+  align-items: center;
+
+}
+
+.grid-area-none {grid-area: non;}
+.grid-area-time1 {grid-area: time1;}
+.grid-area-time2 {grid-area: time2;}
+.grid-area-time3 {grid-area: time3;}
+.grid-area-time4 {grid-area: time4;}
+.grid-area-time5 {grid-area: time5;}
+.grid-area-time6 {grid-area: time6;}
+.grid-area-time7 {grid-area: time7;}
+.grid-area-time8 {grid-area: time8;}
+.grid-area-time9 {grid-area: time9;}
+
+.grid-area-mon {grid-area: mon;}
+.grid-area-mon1 {grid-area: mon1;}
+.grid-area-mon2 {grid-area: mon2;}
+.grid-area-mon3 {grid-area: mon3;}
+.grid-area-mon4 {grid-area: mon4;}
+.grid-area-mon5 {grid-area: mon5;}
+.grid-area-mon6 {grid-area: mon6;}
+.grid-area-mon7 {grid-area: mon7;}
+.grid-area-mon8 {grid-area: mon8;}
+.grid-area-mon9 {grid-area: mon9;}
+
+.grid-area-tue {grid-area: tue;}
+.grid-area-tue1 {grid-area: tue1;}
+.grid-area-tue2 {grid-area: tue2;}
+.grid-area-tue3 {grid-area: tue3;}
+.grid-area-tue4 {grid-area: tue4;}
+.grid-area-tue5 {grid-area: tue5;}
+.grid-area-tue6 {grid-area: tue6;}
+.grid-area-tue7 {grid-area: tue7;}
+.grid-area-tue8 {grid-area: tue8;}
+.grid-area-tue9 {grid-area: tue9;}
+
+.grid-area-wed {grid-area: wed;}
+.grid-area-wed1 {grid-area: wed1;}
+.grid-area-wed2 {grid-area: wed2;}
+.grid-area-wed3 {grid-area: wed3;}
+.grid-area-wed4 {grid-area: wed4;}
+.grid-area-wed5 {grid-area: wed5;}
+.grid-area-wed6 {grid-area: wed6;}
+.grid-area-wed7 {grid-area: wed7;}
+.grid-area-wed8 {grid-area: wed8;}
+.grid-area-wed9 {grid-area: wed9;}
+
+.grid-area-thu {grid-area: thu;}
+.grid-area-thu1 {grid-area: thu1;}
+.grid-area-thu2 {grid-area: thu2;}
+.grid-area-thu3 {grid-area: thu3;}
+.grid-area-thu4 {grid-area: thu4;}
+.grid-area-thu5 {grid-area: thu5;}
+.grid-area-thu6 {grid-area: thu6;}
+.grid-area-thu7 {grid-area: thu7;}
+.grid-area-thu8 {grid-area: thu8;}
+.grid-area-thu9 {grid-area: thu9;}
+
+.grid-area-fri {grid-area: fri;}
+.grid-area-fri1 {grid-area: fri1;}
+.grid-area-fri2 {grid-area: fri2;}
+.grid-area-fri3 {grid-area: fri3;}
+.grid-area-fri4 {grid-area: fri4;}
+.grid-area-fri5 {grid-area: fri5;}
+.grid-area-fri6 {grid-area: fri6;}
+.grid-area-fri7 {grid-area: fri7;}
+.grid-area-fri8 {grid-area: fri8;}
+.grid-area-fri9 {grid-area: fri9;}
+
+.grid-area-sat {grid-area: sat;}
+.grid-area-sat1 {grid-area: sat1;}
+.grid-area-sat2 {grid-area: sat2;}
+.grid-area-sat3 {grid-area: sat3;}
+.grid-area-sat4 {grid-area: sat4;}
+.grid-area-sat5 {grid-area: sat5;}
+.grid-area-sat6 {grid-area: sat6;}
+.grid-area-sat7 {grid-area: sat7;}
+.grid-area-sat8 {grid-area: sat8;}
+.grid-area-sat9 {grid-area: sat9;}
