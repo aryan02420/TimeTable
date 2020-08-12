@@ -1,6 +1,6 @@
 import {
   data
-} from './data.js';
+} from '/js/data.js';
 const courses = Object.keys(data);
 const container = document.querySelector('form');
 courses.forEach(course => {
