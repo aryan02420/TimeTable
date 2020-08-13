@@ -1,5 +1,6 @@
 import {
-  data
+  data,
+  colors
 } from './data.js';
 const courses = Object.keys(data);
 const container = document.querySelector('form');
@@ -9,18 +10,18 @@ courses.forEach(course => {
   title.innerText = course;
   form.appendChild(title);
   const units = Object.keys(data[course]);
-
+  const choicecont = document.createElement('div');
   units.forEach(unit => {
     const container2 = document.createElement('div');
     const subtitle = document.createElement('h4');
     subtitle.innerText = unit;
     container2.appendChild(subtitle);
-
     const sections = Object.keys(data[course][unit]);
     sections.forEach(section => {
       container2.innerHTML += `<input type="radio" id="${course}-${unit}-${section}" name="${course}-${unit}" value="${course}-${unit}-${section}"> <label for="${course}-${unit}-${section}">${section} - ${data[course][unit][section]["Teacher"]}</label><br>`
     });
-    form.appendChild(container2);
+    choicecont.appendChild(container2)
+    form.appendChild(choicecont);
   });
 
   container.appendChild(form);
@@ -41,7 +42,7 @@ const updateTT = () => {
     for (let i = 0; i < 6; i++) {
       if (sch['Time'][i] !== 0) {
         const slot = document.querySelector(`.grid-area-${days[i]}${sch['Time'][i] - 7}`);
-        slot.innerHTML += `${keys[0]} ${keys[2]}`
+        slot.innerHTML += `<div style="background:${colors[keys[0]]};border-radius:10px;padding:10px;">${keys[0]}<br>${keys[2]} ${sch["Room"]}</div>`
       }
     }
   };
