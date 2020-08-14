@@ -9,48 +9,63 @@ body {
   width: 100%;
   height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   font-family: 'Baloo Tamma 2', cursive;
+  overflow: hidden;
+}
+
+#forms {
+  display: block;
+  width: auto;
+  height: 100%;
+  resize: horizontal;
   overflow-x: hidden;
+  overflow-y: scroll;
 }
 
-form {
-  display: flex;
-  flex-direction: row;
-  width: 100vw;
-  height: auto;
-  overflow-y: visible;
-  /* overflow-x: scroll; */
+#forms>*:not(:nth-child(1)) {
+  border-top: 5px solid #00000033;
 }
 
-form>* {
-  margin: 25px;
+#form1 {
+  padding: 10px;
 }
 
-form>div>div {
-  display: flex;
-  flex-direction: row;
+#form1>* {
+  margin: 10px;
 }
 
-form>div>div>* {
-  margin: 15px;
+#form2>*:not(:nth-child(1)) {
+  border-top: 1px solid #00000011;
+}
+
+#form2 {
+  padding: 10px;
+}
+
+#form2>* {
+  padding: 25px;
+}
+
+#form2>*>*>* {
+  margin: 10px;
+}
+
+#form2>*>*>*>* {
+  margin: 10px;
 }
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto repeat(6, 1fr);
-  grid-template-rows: auto repeat(10, 1fr);
-  grid-template-areas: 'non mon tue wed thu fri sat'
-    'time1 mon1 tue1 wed1 thu1 fri1 sat1'
-    'time2 mon2 tue2 wed2 thu2 fri2 sat2'
-    'time3 mon3 tue3 wed3 thu3 fri3 sat3'
-    'time4 mon4 tue4 wed4 thu4 fri4 sat4'
-    'time5 mon5 tue5 wed5 thu5 fri5 sat5'
-    'time6 mon6 tue6 wed6 thu6 fri6 sat6'
-    'time7 mon7 tue7 wed7 thu7 fri7 sat7'
-    'time8 mon8 tue8 wed8 thu8 fri8 sat8'
-    'time9 mon9 tue9 wed9 thu9 fri9 sat9'
-    'time10 mon10 tue10 wed10 thu10 fri10 sat10';
+  grid-template-rows: auto repeat(6, 1fr);
+  grid-template-columns: auto repeat(10, 1fr);
+  grid-template-areas: 'non time1 time2 time3 time4 time5 time6 time7 time8 time9 time10'
+    'mon mon1 mon2 mon3 mon4 mon5 mon6 mon7 mon8 mon9 mon10'
+    'tue tue1 tue2 tue3 tue4 tue5 tue6 tue7 tue8 tue9 tue10'
+    'wed wed1 wed2 wed3 wed4 wed5 wed6 wed7 wed8 wed9 wed10'
+    'thu thu1 thu2 thu3 thu4 thu5 thu6 thu7 thu8 thu9 thu10'
+    'fri fri1 fri2 fri3 fri4 fri5 fri6 fri7 fri8 fri9 fri10'
+    'sat sat1 sat2 sat3 sat4 sat5 sat6 sat7 sat8 sat9 sat10';
   background-color: #efefef;
   padding: 3px;
   grid-gap: 3px;
@@ -58,37 +73,6 @@ form>div>div>* {
   align-content: space-around;
   width: 100%;
   height: 100vh;
-}
-
-@media (min-aspect-ratio: 1/1) {
-  .grid-container {
-    grid-template-rows: auto repeat(6, 1fr);
-    grid-template-columns: auto repeat(10, 1fr);
-    grid-template-areas: 'non time1 time2 time3 time4 time5 time6 time7 time8 time9 time10'
-      'mon mon1 mon2 mon3 mon4 mon5 mon6 mon7 mon8 mon9 mon10'
-      'tue tue1 tue2 tue3 tue4 tue5 tue6 tue7 tue8 tue9 tue10'
-      'wed wed1 wed2 wed3 wed4 wed5 wed6 wed7 wed8 wed9 wed10'
-      'thu thu1 thu2 thu3 thu4 thu5 thu6 thu7 thu8 thu9 thu10'
-      'fri fri1 fri2 fri3 fri4 fri5 fri6 fri7 fri8 fri9 fri10'
-      'sat sat1 sat2 sat3 sat4 sat5 sat6 sat7 sat8 sat9 sat10';
-  }
-
-  body {
-    flex-direction: row;
-    height: 100vh;
-  }
-
-  form {
-    display: block;
-    width: auto;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    padding-right: 20px;
-  }
-
-  form>div>div {
-    display: block;
-  }
 }
 
 .grid-item {
@@ -99,6 +83,43 @@ form>div>div>* {
   text-align: center;
   align-items: center;
   padding: 10px;
+}
+
+@media (max-aspect-ratio: 1/1), (max-width: 600px) {
+  body {
+    width: 100vw;
+    display: block;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+
+  .grid-container {
+    grid-template-columns: auto repeat(6, 1fr);
+    grid-template-rows: auto repeat(10, 1fr);
+    grid-template-areas: 'non mon tue wed thu fri sat'
+      'time1 mon1 tue1 wed1 thu1 fri1 sat1'
+      'time2 mon2 tue2 wed2 thu2 fri2 sat2'
+      'time3 mon3 tue3 wed3 thu3 fri3 sat3'
+      'time4 mon4 tue4 wed4 thu4 fri4 sat4'
+      'time5 mon5 tue5 wed5 thu5 fri5 sat5'
+      'time6 mon6 tue6 wed6 thu6 fri6 sat6'
+      'time7 mon7 tue7 wed7 thu7 fri7 sat7'
+      'time8 mon8 tue8 wed8 thu8 fri8 sat8'
+      'time9 mon9 tue9 wed9 thu9 fri9 sat9'
+      'time10 mon10 tue10 wed10 thu10 fri10 sat10';
+    width: 100vw;
+    height: 100vh;
+  }
+
+  #forms {
+    overflow: auto;
+    height: 50vh;
+  }
+
+  #forms, #form2, #form2>*>* {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .grid-area-none {

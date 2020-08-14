@@ -1,126 +1,126 @@
 export const data = {
-  Math_F211: {
+  MATH_F211: {
     Lectures: {
       L1: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "ANUPAMA SHARMA / Amit Setia",
+        Room: "",
         Time: [12, 0, 12, 0, 12, 0]
       },
       L2: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Amit Setia / ANUPAMA SHARMA",
+        Room: "",
         Time: [12, 0, 12, 0, 12, 0]
       },
       L3: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "ANUPAMA SHARMA / Amit Setia",
+        Room: "",
         Time: [12, 0, 12, 0, 12, 0]
       },
       L4: {
-        Teacher: "MKP",
-        Room: "TBA",
+        Teacher: "Manoj Kumar Pandey / Mayank Goel",
+        Room: "",
         Time: [16, 0, 16, 0, 16, 0]
       },
       L5: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Mayank Goel / Manoj Kumar Pandey",
+        Room: "",
         Time: [16, 0, 16, 0, 16, 0]
       },
       L6: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Manoj Kumar Pandey / Mayank Goel",
+        Room: "",
         Time: [16, 0, 16, 0, 16, 0]
       },
       L7: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "HIMADRI MUKHERJEE / Amit Setia",
+        Room: "",
         Time: [0, 9, 0, 9, 0, 9]
       },
       L8: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Amit Setia / HIMADRI MUKHERJEE",
+        Room: "",
         Time: [0, 9, 0, 9, 0, 9]
       },
       L9: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "HIMADRI MUKHERJEE / Amit Setia",
+        Room: "",
         Time: [0, 9, 0, 9, 0, 9]
       },
       L10: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Anil Kumar / Danumjaya Palla",
+        Room: "",
         Time: [0, 12, 0, 12, 0, 12]
       },
       L11: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Anil Kumar / Danumjaya Palla",
+        Room: "",
         Time: [0, 12, 0, 12, 0, 12]
       },
       L12: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Anil Kumar / Danumjaya Palla",
+        Room: "",
         Time: [0, 12, 0, 12, 0, 12]
       }
     },
     Tutorials: {
       T1: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "ANUPAMA SHARMA / MONALISA ANAND",
+        Room: "",
         Time: [0, 0, 0, 17, 0, 0]
       },
       T2: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "ANUPAMA SHARMA / MONALISA ANAND",
+        Room: "",
         Time: [0, 0, 17, 0, 0, 0]
       },
       T3: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "ANUPAMA SHARMA / GAYATRI MAHARANA",
+        Room: "",
         Time: [0, 0, 17, 0, 0, 0]
       },
       T4: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Mayank Goel / PABITRA KUMAR PRADHAN",
+        Room: "",
         Time: [0, 0, 0, 17, 0, 0]
       },
       T5: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "BIJAYA KUMAR SAHU / Manoj Kumar Pandey",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       },
       T6: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "BIJAYA KUMAR SAHU / Mayank Goel",
+        Room: "",
         Time: [0, 0, 17, 0, 0, 0]
       },
       T7: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Amit Setia / SANDHYA MAURYA",
+        Room: "",
         Time: [0, 0, 0, 17, 0, 0]
       },
       T8: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "SANDHYA MAURYA / HIMADRI MUKHERJEE",
+        Room: "",
         Time: [0, 0, 17, 0, 0, 0]
       },
       T9: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "HIMADRI MUKHERJEE / GAYATRI MAHARANA",
+        Room: "",
         Time: [0, 0, 0, 17, 0, 0]
       },
       T10: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "PABITRA KUMAR PRADHAN / Anil Kumar",
+        Room: "",
         Time: [0, 0, 17, 0, 0, 0]
       },
       T11: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Anil Kumar / SAROJA KUMAR PANDA",
+        Room: "",
         Time: [0, 0, 0, 17, 0, 0]
       },
       T12: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Danumjaya Palla / SAROJA KUMAR PANDA",
+        Room: "",
         Time: [0, 0, 17, 0, 0, 0]
       }
     }
@@ -128,8 +128,8 @@ export const data = {
   BITS_F225: {
     Lectures: {
       L1: {
-        Teacher: "TBA",
-        Room: "TBA",
+        Teacher: "Judith Maria Braganca",
+        Room: "",
         Time: [0, 0, 0, 0, 0, 0]
       }
     }
@@ -137,15 +137,15 @@ export const data = {
   CS_F213: {
     Lectures: {
       L1: {
-        Teacher: "Neena",
-        Room: "TBA",
+        Teacher: "Neena Goveas",
+        Room: "",
         Time: [0, 10, 0, 10, 0, 10]
       }
     },
-    Tutorials: {
-      T1: {
-        Teacher: "Staff",
-        Room: "TBA",
+    Practicals: {
+      P1: {
+        Teacher: "SOUMYADIP BANDYOPADHY / Neena Goveas",
+        Room: "",
         Time: [0, 0, 0, 15, 0, 0]
       }
     }
@@ -153,15 +153,15 @@ export const data = {
   CS_F214: {
     Lectures: {
       L1: {
-        Teacher: "A Baskar",
-        Room: "TBA",
+        Teacher: "A BASKAR",
+        Room: "",
         Time: [10, 0, 10, 0, 10, 0]
       }
     },
     Tutorials: {
       T1: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "A BASKAR / ABHISHEK KR SINGH",
+        Room: "",
         Time: [17, 0, 0, 0, 0, 0]
       }
     }
@@ -169,72 +169,72 @@ export const data = {
   CS_F215: {
     Lectures: {
       L1: {
-        Teacher: "Abhijit Pethe",
-        Room: "TBA",
+        Teacher: "ABHIJIT PETHE",
+        Room: "",
         Time: [12, 0, 12, 0, 12, 0]
       },
       L2: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "RAVI KADLIMATTI",
+        Room: "",
         Time: [12, 0, 12, 0, 12, 0]
       },
       L3: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Sarang C Dhongdi / SUDEEP BAUDHA",
+        Room: "",
         Time: [15, 0, 15, 0, 15, 0]
       },
       L4: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "HRISHIKESH SONALIKAR",
+        Room: "",
         Time: [0, 12, 0, 12, 0, 12]
       }
     },
     Tutorials: {
       T1: {
-        Teacher: "Abhijit Pethe",
-        Room: "TBA",
+        Teacher: "ABHIJIT PETHE",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       },
       T2: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "RAVI KADLIMATTI",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       },
       T3: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "Sarang C Dhongdi",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       },
       T4: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "HRISHIKESH SONALIKAR",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       },
       T5: {
-        Teacher: "Sideep Baudha",
-        Room: "TBA",
+        Teacher: "SUDEEP BAUDHA",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       },
       T6: {
-        Teacher: "Noel Prashant",
-        Room: "TBA",
+        Teacher: "NOEL PRASHANT RATCHAG",
+        Room: "",
         Time: [0, 0, 0, 14, 0, 0]
       }
     },
     Practicals: {
       P1: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "SWATI VARUN YADAV / PRATEEK SINGH / SURAJ S / JERRY ANTO K / NOEL PRASHANT RATCHAG",
+        Room: "",
         Time: [0, 11, 0, 0, 0, 0]
       },
       P2: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "JOSHI VIRAJ VILAS / SWATI VARUN YADAV / AFROZ FATIMA / SUDEEP BAUDHA / RAVI KADLIMATTI",
+        Room: "",
         Time: [0, 14, 0, 0, 0, 0]
       },
       P3: {
-        Teacher: "Staff",
-        Room: "TBA",
+        Teacher: "SURAJ S / JERRY ANTO K / ANSA SHERMIN S / MANISH VARUN YADAV / PRAMILA",
+        Room: "",
         Time: [0, 0, 0, 0, 11, 0]
       }
     },
@@ -242,25 +242,34 @@ export const data = {
   CS_F222: {
     Lectures: {
       L1: {
-        Teacher: "Anup Basil Mathew",
-        Room: "TBA",
+        Teacher: "ANUP BASIL MATHEW",
+        Room: "",
         Time: [9, 0, 9, 0, 9, 0]
       }
     },
     Tutorials: {
       T1: {
-        Teacher: "Staff",
-        Room: "TBA",
-        Time: [0, 0, 0, 17, 0, 0]
+        Teacher: "ANUP BASIL MATHEW / SUJITH THOMAS",
+        Room: "",
+        Time: [0, 17, 0, 0, 0, 0]
       }
     }
   }
 };
 export const colors = {
-  Math_F211: '#A3D6D4',
+  MATH_F211: '#A3D6D4',
   BITS_F225: '#F1E9CB',
   CS_F213: '#C2D5A7',
   CS_F214: '#B0ABCA',
   CS_F215: '#E2A9BE',
   CS_F222: '#E1C6AC'
+}
+
+export const fullname = {
+  MATH_F211: 'MATHEMATICS III',
+  BITS_F225: 'ENVIRONMENTAL STUDIES',
+  CS_F213: 'OBJECT ORIENTED PROG',
+  CS_F214: 'LOGIC IN COMPUTER SC',
+  CS_F215: 'DIGITAL DESIGN',
+  CS_F222: 'DISCR STRUC FOR COMP SC'
 }
