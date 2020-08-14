@@ -12,6 +12,20 @@ body {
   flex-direction: row;
   font-family: 'Baloo Tamma 2', cursive;
   overflow: hidden;
+  background: #efefef;
+  color: #222222;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 18px;
+}
+
+button:hover {
+  background: #bbb;
 }
 
 #forms {
@@ -24,7 +38,7 @@ body {
 }
 
 #forms>*:not(:nth-child(1)) {
-  border-top: 5px solid #00000033;
+  border-top: 2px solid #00000033;
 }
 
 #form1 {
@@ -55,6 +69,11 @@ body {
   margin: 10px;
 }
 
+.slot {
+  border-radius: 10px;
+  padding: 10px;
+}
+
 .grid-container {
   display: grid;
   grid-template-rows: auto repeat(6, 1fr);
@@ -78,7 +97,7 @@ body {
 .grid-item {
   display: grid;
   background-color: #e7e7e7;
-  color: #000;
+  color: #00000099;
   border-radius: 4px;
   text-align: center;
   align-items: center;

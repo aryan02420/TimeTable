@@ -256,14 +256,23 @@ export const data = {
     }
   }
 };
-export const colors = {
-  MATH_F211: '#A3D6D4',
-  BITS_F225: '#F1E9CB',
-  CS_F213: '#C2D5A7',
-  CS_F214: '#B0ABCA',
-  CS_F215: '#E2A9BE',
-  CS_F222: '#E1C6AC'
-}
+
+export const colors = [
+  '#A3D6D4',
+  '#F1E9CB',
+  '#C2D5A7',
+  '#B0ABCA',
+  '#E2A9BE',
+  '#E1C6AC',
+  '#e89f9f',
+  '#e0b177',
+  '#c8c767',
+  '#4e9c70',
+  '#44b4b8',
+  '#4c78ab',
+  '#9877c1',
+  '#c885c0',
+]
 
 export const fullname = {
   MATH_F211: 'MATHEMATICS III',

@@ -9,7 +9,7 @@ const form1 = document.querySelector('#form1');
 const form2 = document.querySelector('#form2');
 
 courses.forEach(course => {
-  form1.innerHTML += `<input type="checkbox" id="${course}" name="course" value="${course}"><label for="${course}">${course} - ${fullname[course]}</label><br>`;
+  form1.innerHTML += `<input type="checkbox" id="${course}" name="course" value="${course}"><label for="${course}">${course} - ${fullname[course] || ""}</label><br>`;
 });
 
 form1.addEventListener('change', () => {
@@ -19,6 +19,11 @@ form1.addEventListener('change', () => {
 form2.addEventListener('change', () => {
   updateTT();
 });
+
+// document.querySelector('#reset')
+//   .addEventListener('click', () => {
+//     localStorage.clear();
+//   });
 
 const displayChoices = () => {
 
@@ -31,7 +36,7 @@ const displayChoices = () => {
     const courseDiv = document.createElement('div');
     courseDiv.classList.add("courseDiv");
     const courseTitle = document.createElement('h3');
-    courseTitle.innerText = `${course} - ${fullname[course]}`;
+    courseTitle.innerText = `${course} - ${fullname[course] || ""}`;
     courseDiv.appendChild(courseTitle);
 
     const courseUnits = Object.keys(data[course]);
@@ -61,6 +66,8 @@ const displayChoices = () => {
     form2.appendChild(courseDiv);
   }
 
+  updateTT();
+
 };
 
 const updateTT = () => {
@@ -81,12 +88,13 @@ const updateTT = () => {
 
     const keys = value.split('-');
     const sch = data[keys[0]][keys[1]][keys[2]];
+
     for (let i = 0; i < 6; i++) {
 
       if (sch['Time'][i] !== 0) {
 
         const slot = document.querySelector(`.grid-area-${days[i]}${sch['Time'][i] - 7}`);
-        slot.innerHTML += `<div style="background:${colors[keys[0]]};border-radius:10px;padding:10px;">${keys[0]}<br>${keys[2]} ${sch["Room"]}</div>`;
+        slot.innerHTML += `<div class="slot" style="background:${colors[courses.findIndex(element => element === keys[0])] || "#ffffff"};">${keys[0]}<br>${keys[2]} ${sch["Room"]}</div>`;
 
       }
 
@@ -96,4 +104,3 @@ const updateTT = () => {
 };
 
 displayChoices();
-updateTT();
