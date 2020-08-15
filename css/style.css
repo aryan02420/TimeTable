@@ -41,27 +41,23 @@ button:hover {
   border-top: 2px solid #00000033;
 }
 
-#form1 {
+#form1, #form2 {
   padding: 10px;
 }
 
-#form1>* {
-  margin: 10px;
+#form1>*, #form2>* {
+  padding: 25px;
+}
+
+#form1>h3 {
+  padding-bottom: 0;
 }
 
 #form2>*:not(:nth-child(1)) {
   border-top: 1px solid #00000011;
 }
 
-#form2 {
-  padding: 10px;
-}
-
-#form2>* {
-  padding: 25px;
-}
-
-#form2>*>*>* {
+#form1>*>*, #form2>*>*>* {
   margin: 10px;
 }
 
@@ -69,9 +65,32 @@ button:hover {
   margin: 10px;
 }
 
+#forms h4,
+#forms h3 {
+  position: relative;
+}
+
+#forms h4::before,
+#forms h3::before {
+  content: " > ";
+  position: absolute;
+  top: 0;
+  left: -10px;
+  bottom: 0;
+}
+
+#forms h4.collapsed::before,
+#forms h3.collapsed::before {
+  content: " ^ ";
+}
+
 .slot {
   border-radius: 10px;
   padding: 10px;
+}
+
+.collapsed+div {
+  display: none;
 }
 
 .grid-container {

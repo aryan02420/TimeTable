@@ -4,13 +4,17 @@ import {
   fullname
 } from './data.js';
 const courses = Object.keys(data);
-
 const form1 = document.querySelector('#form1');
 const form2 = document.querySelector('#form2');
 
+const form1title = document.createElement('h3');
+form1title.innerText = 'Choose Courses';
+form1.appendChild(form1title);
+const form1choices = document.createElement('div');
 courses.forEach(course => {
-  form1.innerHTML += `<input type="checkbox" id="${course}" name="course" value="${course}"><label for="${course}">${course} - ${fullname[course] || ""}</label><br>`;
+  form1choices.innerHTML += `<input type="checkbox" id="${course}" name="course" value="${course}"><label for="${course}">${course} - ${fullname[course] || ""}</label><br>`;
 });
+form1.appendChild(form1choices);
 
 form1.addEventListener('change', () => {
   displayChoices();
@@ -19,6 +23,8 @@ form1.addEventListener('change', () => {
 form2.addEventListener('change', () => {
   updateTT();
 });
+
+let selectedcourses;
 
 // document.querySelector('#reset')
 //   .addEventListener('click', () => {
@@ -30,12 +36,15 @@ const displayChoices = () => {
   form2.innerHTML = '';
 
   const form1Data = new FormData(form1);
+  selectedcourses = [];
 
   for (const course of form1Data.values()) {
 
+    selectedcourses.push(course);
     const courseDiv = document.createElement('div');
     courseDiv.classList.add("courseDiv");
     const courseTitle = document.createElement('h3');
+    courseTitle.classList.add("courseTitle");
     courseTitle.innerText = `${course} - ${fullname[course] || ""}`;
     courseDiv.appendChild(courseTitle);
 
@@ -52,13 +61,17 @@ const displayChoices = () => {
       unitDiv.appendChild(unitTitle);
 
       const sections = Object.keys(data[course][unit]);
+      const inputDiv = document.createElement('div');
+      inputDiv.classList.add("inputDiv");
 
       sections.forEach(section => {
 
-        unitDiv.innerHTML += `<input type="radio" id="${course}-${unit}-${section}" name="${course}-${unit}" value="${course}-${unit}-${section}"> <label for="${course}-${unit}-${section}">${section} - ${data[course][unit][section]["Teacher"]}</label><br>`
+        inputDiv.innerHTML += `<input type="radio" id="${course}-${unit}-${section}" name="${course}-${unit}" value="${course}-${unit}-${section}"> <label for="${course}-${unit}-${section}">${section} - ${data[course][unit][section]["Teacher"]}</label><br>`
 
       });
-      unitsDiv.appendChild(unitDiv)
+
+      unitDiv.appendChild(inputDiv);
+      unitsDiv.appendChild(unitDiv);
       courseDiv.appendChild(unitsDiv);
 
     });
@@ -90,12 +103,12 @@ const updateTT = () => {
     const sch = data[keys[0]][keys[1]][keys[2]];
 
     for (let i = 0; i < 6; i++) {
+      let time = JSON.parse(sch['Time'])[i];
+      if (time >= 1 && time <= 7) time += 12;
 
-      if (sch['Time'][i] !== 0) {
-
-        const slot = document.querySelector(`.grid-area-${days[i]}${sch['Time'][i] - 7}`);
-        slot.innerHTML += `<div class="slot" style="background:${colors[courses.findIndex(element => element === keys[0])] || "#ffffff"};">${keys[0]}<br>${keys[2]} ${sch["Room"]}</div>`;
-
+      if (time !== 0) {
+        const slot = document.querySelector(`.grid-area-${days[i]}${time - 7}`);
+        slot.innerHTML += `<div class="slot" style="background:${colors[selectedcourses.findIndex(element => element === keys[0])] || "#ffffff"};">${keys[0]}<br>${keys[2]}</div>`;
       }
 
     }
@@ -104,3 +117,13 @@ const updateTT = () => {
 };
 
 displayChoices();
+
+
+document.querySelector('#forms').addEventListener('click', (event) => {
+  let target = event.target;
+  let tagname = target.tagName.toLowerCase();
+  if (tagname == 'h4' || tagname == 'h3') {
+    if (target.classList.contains("collapsed")) target.classList.remove("collapsed");
+    else target.classList.add("collapsed");
+  }
+});
