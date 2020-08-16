@@ -111,14 +111,14 @@ button:hover {
 .grid-container {
   display: grid;
   grid-template-rows: auto repeat(6, 1fr);
-  grid-template-columns: auto repeat(10, 1fr);
-  grid-template-areas: 'non time1 time2 time3 time4 time5 time6 time7 time8 time9 time10'
-    'mon mon1 mon2 mon3 mon4 mon5 mon6 mon7 mon8 mon9 mon10'
-    'tue tue1 tue2 tue3 tue4 tue5 tue6 tue7 tue8 tue9 tue10'
-    'wed wed1 wed2 wed3 wed4 wed5 wed6 wed7 wed8 wed9 wed10'
-    'thu thu1 thu2 thu3 thu4 thu5 thu6 thu7 thu8 thu9 thu10'
-    'fri fri1 fri2 fri3 fri4 fri5 fri6 fri7 fri8 fri9 fri10'
-    'sat sat1 sat2 sat3 sat4 sat5 sat6 sat7 sat8 sat9 sat10';
+  grid-template-columns: auto repeat(12, 1fr);
+  grid-template-areas: 'non time1 time2 time3 time4 time5 time6 time7 time8 time9 time10 time11 time12'
+    'mon mon1 mon2 mon3 mon4 mon5 mon6 mon7 mon8 mon9 mon10 mon11 mon12'
+    'tue tue1 tue2 tue3 tue4 tue5 tue6 tue7 tue8 tue9 tue10 tue11 tue12'
+    'wed wed1 wed2 wed3 wed4 wed5 wed6 wed7 wed8 wed9 wed10 wed11 wed12'
+    'thu thu1 thu2 thu3 thu4 thu5 thu6 thu7 thu8 thu9 thu10 thu11 thu12'
+    'fri fri1 fri2 fri3 fri4 fri5 fri6 fri7 fri8 fri9 fri10 fri11 fri12'
+    'sat sat1 sat2 sat3 sat4 sat5 sat6 sat7 sat8 sat9 sat10 sat11 sat12';
   background-color: #efefef;
   padding: 3px;
   grid-gap: 3px;
@@ -148,7 +148,7 @@ button:hover {
 
   .grid-container {
     grid-template-columns: auto repeat(6, 1fr);
-    grid-template-rows: auto repeat(10, 1fr);
+    grid-template-rows: auto repeat(12, 1fr);
     grid-template-areas: 'non mon tue wed thu fri sat'
       'time1 mon1 tue1 wed1 thu1 fri1 sat1'
       'time2 mon2 tue2 wed2 thu2 fri2 sat2'
@@ -159,7 +159,9 @@ button:hover {
       'time7 mon7 tue7 wed7 thu7 fri7 sat7'
       'time8 mon8 tue8 wed8 thu8 fri8 sat8'
       'time9 mon9 tue9 wed9 thu9 fri9 sat9'
-      'time10 mon10 tue10 wed10 thu10 fri10 sat10';
+      'time10 mon10 tue10 wed10 thu10 fri10 sat10'
+      'time11 mon11 tue11 wed11 thu11 fri11 sat11'
+      'time12 mon12 tue12 wed12 thu12 fri12 sat12';
     width: 100vw;
     height: 100vh;
   }
@@ -215,6 +217,18 @@ button:hover {
   grid-area: time9;
 }
 
+.grid-area-time10 {
+  grid-area: time10;
+}
+
+.grid-area-time11 {
+  grid-area: time11;
+}
+
+.grid-area-time12 {
+  grid-area: time12;
+}
+
 .grid-area-mon {
   grid-area: mon;
 }
@@ -253,6 +267,18 @@ button:hover {
 
 .grid-area-mon9 {
   grid-area: mon9;
+}
+
+.grid-area-mon10 {
+  grid-area: mon10;
+}
+
+.grid-area-mon11 {
+  grid-area: mon11;
+}
+
+.grid-area-mon12 {
+  grid-area: mon12;
 }
 
 .grid-area-tue {
@@ -295,6 +321,18 @@ button:hover {
   grid-area: tue9;
 }
 
+.grid-area-tue10 {
+  grid-area: tue10;
+}
+
+.grid-area-tue11 {
+  grid-area: tue11;
+}
+
+.grid-area-tue12 {
+  grid-area: tue12;
+}
+
 .grid-area-wed {
   grid-area: wed;
 }
@@ -333,6 +371,18 @@ button:hover {
 
 .grid-area-wed9 {
   grid-area: wed9;
+}
+
+.grid-area-wed10 {
+  grid-area: wed10;
+}
+
+.grid-area-wed11 {
+  grid-area: wed11;
+}
+
+.grid-area-wed12 {
+  grid-area: wed12;
 }
 
 .grid-area-thu {
@@ -375,6 +425,18 @@ button:hover {
   grid-area: thu9;
 }
 
+.grid-area-thu10 {
+  grid-area: thu10;
+}
+
+.grid-area-thu11 {
+  grid-area: thu11;
+}
+
+.grid-area-thu12 {
+  grid-area: thu12;
+}
+
 .grid-area-fri {
   grid-area: fri;
 }
@@ -409,6 +471,18 @@ button:hover {
 
 .grid-area-fri8 {
   grid-area: fri8;
+}
+
+.grid-area-fri10 {
+  grid-area: fri10;
+}
+
+.grid-area-fri11 {
+  grid-area: fri11;
+}
+
+.grid-area-fri12 {
+  grid-area: fri12;
 }
 
 .grid-area-fri9 {
@@ -453,4 +527,16 @@ button:hover {
 
 .grid-area-sat9 {
   grid-area: sat9;
+}
+
+.grid-area-sat10 {
+  grid-area: sat10;
+}
+
+.grid-area-sat11 {
+  grid-area: sat11;
+}
+
+.grid-area-sat12 {
+  grid-area: sat12;
 }
