@@ -84,13 +84,28 @@ button:hover {
   content: " ^ ";
 }
 
+#search {
+  padding: 2px 20px;
+  background: #ffffff;
+  margin-bottom: -15px;
+  border-radius: 50px;
+  border: 1px solid #aaaaffff;
+}
+
 .slot {
   border-radius: 10px;
   padding: 10px;
 }
 
-.collapsed+div {
+.collapsed~div,
+.hidden,
+.hidden+label,
+.hidden+label+br {
   display: none;
+  height: 0;
+  width: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .grid-container {
