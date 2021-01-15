@@ -937,7 +937,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Pritam Bhattacharya, Abhishek Kr Singh, Chandradew Sharma",
-        "Time": "[0, 0, 0, 0, 0, 2]"
+        "Time": "[0, 0, 0, 0, 0, 3]"
       }
     }
   },
