@@ -30,7 +30,7 @@ form2.addEventListener('change', () => {
 
 
 searchbox.addEventListener('keyup', () => {
-  const regex = RegExp(searchbox.innerText, 'i');
+  const regex = RegExp(searchbox.innerText.toString(), 'i');
   courses.forEach(course => {
     let elem = document.querySelector(`#${course}`);
     if (regex.test(`${course} - ${fullname[course] || ""}`)) {
@@ -124,10 +124,9 @@ const updateTT = () => {
 
     for (let i = 0; i < 6; i++) {
       let time = JSON.parse(sch['Time'])[i];
-      if (time >= 1 && time <= 7) time += 12;
 
       if (time !== 0) {
-        const slot = document.querySelector(`.grid-area-${days[i]}${time - 7}`);
+        const slot = document.querySelector(`.grid-area-${days[i]}${time}`);
         slot.innerHTML += `<div class="slot" style="background:${colors[selectedcourses.findIndex(element => element === keys[0])] || "#ffffff"};">${keys[0]}<br>${keys[2]}</div>`;
       }
 

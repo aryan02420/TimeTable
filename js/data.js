@@ -951,7 +951,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Swati Agarwal, Tanmay Tulsidas Verlekar",
-        "Time": "[0, 0, 0, 0, 2, 0]"
+        "Time": "[0, 0, 0, 0, 8, 0]"
       }
     }
   },
