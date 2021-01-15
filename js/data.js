@@ -3,13 +3,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sumit Biswas/ Raviprasad Aduri",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Sumit Biswas/ Raviprasad Aduri",
-        "Time": [0, 0, 0, 0, 0, 1]
+        "Time": "[0, 0, 0, 0, 0, 1]"
       }
     }
   },
@@ -17,13 +17,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Patil Prajakta Pratap ., Shaikh Aatiya Nishaat ., Punyapwar Swapnil Vinod ., Ravi Kiran K ., Rajashree Yaragal R ., Kodarkar Mamta Mangesh ., Prabhu Chodnekar Shamik Sandip, Jayanta Kumar Gogoi, Prabhudesai Sanam Kailas",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -31,13 +31,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Patil Prajakta Pratap ., Shaikh Aatiya Nishaat ., Punyapwar Swapnil Vinod ., Ravi Kiran K ., Rajashree Yaragal R ., Kodarkar Mamta Mangesh ., Prabhu Chodnekar Shamik Sandip, Jayanta Kumar Gogoi, Prabhudesai Sanam Kailas",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -45,13 +45,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sandhya Mehrotra/ Malabika Biswas/ Kundan Kumar",
-        "Time": [3, 8, 0, 8, 0, 0]
+        "Time": "[3, 8, 0, 8, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Sandhya Mehrotra/ Malabika Biswas/ Kundan Kumar",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -59,13 +59,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Veeky Baths/ Sukanta Mondal",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Veeky Baths/ Sukanta Mondal",
-        "Time": [0, 9, 0, 0, 0, 0]
+        "Time": "[0, 9, 0, 0, 0, 0]"
       }
     }
   },
@@ -73,13 +73,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Malabika Biswas/ Rajesh Mehrotra",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Malabika Biswas/ Rajesh Mehrotra",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     }
   },
@@ -87,13 +87,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Arnab Banerjee/ Utpal Roy/ Malabika Biswas/ Raviprasad Aduri/ Sandhya Mehrotra/ Anasuya Ganguly",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Arnab Banerjee, Utpal Roy, Malabika Biswas, Raviprasad Aduri, Sandhya Mehrotra, Anasuya Ganguly, Savardekar Akanksha Vinod, Zakane Reshma Nanasaheb ., Pooja Kotharkar ., Bhende Prajakta Praveen ., Ananya Ajith ., Zantye Pranjita Ganesh ., Mate Nayan Anand ., Vijaya ., Swetha Ramesh .",
-        "Time": [0, 0, 2, 0, 2, 0]
+        "Time": "[0, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -101,7 +101,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -109,7 +109,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -117,7 +117,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -125,7 +125,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -133,7 +133,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -141,7 +141,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -149,13 +149,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dibakar Chakrabarty/ Arnab Banerjee",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Dibakar Chakrabarty/ Arnab Banerjee",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -163,13 +163,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vijayashree Nayak/ Samit Chattopadhyay/ Meenal Kowshik",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Vijayashree Nayak/ Samit Chattopadhyay/ Meenal Kowshik",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -177,7 +177,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Indrani Talukdar",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -185,7 +185,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rajesh Mehrotra/ Arnab Banerjee",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -193,7 +193,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Raviprasad Aduri",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -201,7 +201,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dibakar Chakrabarty",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     }
   },
@@ -209,7 +209,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Angshuman Sarkar",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     }
   },
@@ -217,7 +217,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sukanta Mondal/ Veeky Baths",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     }
   },
@@ -225,7 +225,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Angshuman Sarkar",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -233,7 +233,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Sumit Biswas, Samit Chattopadhyay, Tusar Tirtha Saha, Indrani Talukdar, Roumik Banerjee ., Lakshmi Sudhir Menon .",
-        "Time": [0, 7, 0, 7, 0, 0]
+        "Time": "[0, 7, 0, 7, 0, 0]"
       }
     }
   },
@@ -241,13 +241,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Kundan Kumar/ Sandhya Mehrotra",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Kundan Kumar, Sandhya Mehrotra, Karle Suhas Balasaheb ., Namitha Nayak .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -255,13 +255,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sumit Biswas/ Sukanta Mondal",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Sumit Biswas, Sukanta Mondal",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -269,7 +269,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sumit Biswas",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -277,7 +277,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tusar Tirtha Saha/ Sandhya Mehrotra",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -285,7 +285,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Meenal Kowshik",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -293,7 +293,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Judith Maria Braganca/ Vijayashree Nayak",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -301,7 +301,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -309,7 +309,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -317,7 +317,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -325,7 +325,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -333,7 +333,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -341,7 +341,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -349,7 +349,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -357,7 +357,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -365,7 +365,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -373,7 +373,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sravan Danda",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -381,7 +381,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tanmay Tulsidas Verlekar",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -389,7 +389,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Gaurav Dar",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -397,7 +397,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Bhavana P.",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -405,7 +405,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -413,7 +413,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Devendra Gokul Patil",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -421,7 +421,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sutapa Roy Ramanan",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     }
   },
@@ -429,7 +429,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Prabal Paul",
-        "Time": [0, 0, 11, 0, 11, 7]
+        "Time": "[0, 0, 11, 0, 11, 7]"
       }
     }
   },
@@ -437,7 +437,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tirtharaj Dash/ Ashwin Srinivasan",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -445,7 +445,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -453,7 +453,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -461,7 +461,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -469,7 +469,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -477,7 +477,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -485,7 +485,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -493,7 +493,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -501,7 +501,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -509,7 +509,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -517,7 +517,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -525,7 +525,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -533,11 +533,11 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Bharat M Deshpande/ Pradeep Kumar Sow",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       },
       "L2": {
         "Teacher": "Reena Cheruvalath",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -545,13 +545,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sutapa Roy Ramanan",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Jegatha Nambi Krishnan",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     }
   },
@@ -559,13 +559,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Paramita Haldar",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Paramita Haldar",
-        "Time": [0, 0, 0, 0, 1, 0]
+        "Time": "[0, 0, 0, 0, 1, 0]"
       }
     }
   },
@@ -573,13 +573,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Richa Singhal",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Richa Singhal",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -587,13 +587,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       }
     }
   },
@@ -601,7 +601,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -609,7 +609,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Asima Shaukat, Richa Singhal, Manjuri Kumar, Sundari R., Pragya Singh, Akanksha Gavendra ., Mohd Mubashshir ., Kadu Kavita Haribhau ., V Kaarthick Raaaja ., Parsekar Sidhali Uday., Ishita ., Anupam Mukherjee ., Chandresh Kumar Dwivedi ., Anjali Adnyan Meshram ., Puneeth Tuppaturi ., Neela Gayathri G ., Ashwin Y ., Kancherla Aashish Moses ., Amina F ., Aakanksha M. ., Vinoth Kannan S R ., Shriram Radhakanth ., Harsha Vardhan Thodupunoori, Anushri Chandrashekhar Vaidya ., Siddharth Dhurva Parashar ., Subhranshu Samal ., Kumudini Paliwal, Milind Madhav Joshi, Prathiksha P Prabhu, Priyanka Sahoo, Rudra Rath, Perapu Nagaraju, Aneesha M.S",
-        "Time": [0, 7, 0, 7, 0, 0]
+        "Time": "[0, 7, 0, 7, 0, 0]"
       }
     }
   },
@@ -617,13 +617,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Amol Deshpande",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Amol Deshpande",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -631,13 +631,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Srinivas Krishnaswamy",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Srinivas Krishnaswamy",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -645,7 +645,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -653,7 +653,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -661,7 +661,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -669,7 +669,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -677,7 +677,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sundari R.",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -685,7 +685,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -693,7 +693,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Amol Deshpande",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -701,7 +701,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral, Jegatha Nambi Krishnan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -709,7 +709,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral, Jegatha Nambi Krishnan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -717,7 +717,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Jegatha Nambi Krishnan",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -725,7 +725,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Saroj Sundar Baral",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -733,7 +733,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sampatrao D Manjare",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     }
   },
@@ -741,7 +741,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Manjuri Kumar",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     }
   },
@@ -749,7 +749,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Asima Shaukat",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -757,7 +757,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sharad Sontakke",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -765,7 +765,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Srinivas Krishnaswamy",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     }
   },
@@ -773,13 +773,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Bhavana P/ Aditya Prasad Koley/ Raghu Nath Behera",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Bhavana P/ Aditya Prasad Koley/ Raghu Nath Behera",
-        "Time": [3, 0, 0, 0, 0, 0]
+        "Time": "[3, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -787,7 +787,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Subhasish Roy, Tincy Lis Thomas, Mainak Banerjee, Amrita Chatterjee, Sharanabasava D Hiremath ., Ruchika Bassan ., Naik Viraj Ganpat ., Gawas Ram Uttam ., Dharmendra Das .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -795,13 +795,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rashmi Chauhan/ Amrita Chatterjee/ Subhasish Roy",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Rashmi Chauhan/ Amrita Chatterjee/ Subhasish Roy",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -809,13 +809,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anjan Chattopadhyay/ Raghu Nath Behera",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anjan Chattopadhyay/ Raghu Nath Behera",
-        "Time": [0, 0, 3, 0, 0, 0]
+        "Time": "[0, 0, 3, 0, 0, 0]"
       }
     }
   },
@@ -823,7 +823,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Tincy Lis Thomas",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -831,7 +831,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Narendra Nath Ghosh/ Rashmi Chauhan",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -839,7 +839,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Bhavana P/ Vankayala Kiran",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -847,7 +847,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mainak Banerjee/ Amrita Chatterjee",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -855,7 +855,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Vankayala Kiran, Prakash Halan, Subhadeep Banerjee, Rabi Narayan Panda, Narendra Nath Ghosh, Gandhi Jemi Kamlesh., Gupta Smita Pancham ., Shraddha Paniya ., Tanya Raghava ., Patil Anagha Baburao ., Priyanka Makkar .",
-        "Time": [0, 7, 0, 7, 0, 0]
+        "Time": "[0, 7, 0, 7, 0, 0]"
       }
     }
   },
@@ -863,13 +863,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Subhadeep Banerjee/ Tincy Lis Thomas",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Subhadeep Banerjee/ Tincy Lis Thomas",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -877,13 +877,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Aditya Prasad Koley/ Rabi Narayan Panda/ Sunil Bhand",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Aditya Prasad Koley/ Rabi Narayan Panda/ Sunil Bhand",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -891,7 +891,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Tincy Lis Thomas",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -899,7 +899,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Tincy Lis Thomas",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -907,7 +907,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Prakash Halan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -915,7 +915,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Prakash Halan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -923,7 +923,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Prakash Halan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -931,13 +931,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pritam Bhattacharya/ Chandradew Sharma",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Pritam Bhattacharya, Abhishek Kr Singh, Chandradew Sharma",
-        "Time": [0, 0, 2, 0, 0, 0]
+        "Time": "[0, 0, 2, 0, 0, 0]"
       }
     }
   },
@@ -945,13 +945,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Swati Agarwal",
-        "Time": [4, 0, 4, 0, 10, 0]
+        "Time": "[4, 0, 4, 0, 10, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Swati Agarwal, Tanmay Tulsidas Verlekar",
-        "Time": [0, 0, 0, 0, 2, 0]
+        "Time": "[0, 0, 0, 0, 2, 0]"
       }
     }
   },
@@ -959,17 +959,17 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anita B Agrawal",
-        "Time": [0, 7, 0, 7, 10, 0]
+        "Time": "[0, 7, 0, 7, 10, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Anita B Agrawal, Jerry Anto K",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Anita B Agrawal, Jerry Anto K",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -977,47 +977,47 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama K R",
-        "Time": [7, 0, 0, 0, 0, 0]
+        "Time": "[7, 0, 0, 0, 0, 0]"
       },
       "L2": {
         "Teacher": "Anupama K R",
-        "Time": [0, 3, 0, 0, 0, 0]
+        "Time": "[0, 3, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anupama K R",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Kanchan Manna",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T3": {
         "Teacher": "Amalin Prince",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Kizheppatt Vipin",
-        "Time": [2, 0, 0, 0, 0, 0]
+        "Time": "[2, 0, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Kizheppatt Vipin,Anjli Verghese , Joshi Viraj Vilas .",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Noel Prashant Ratchagar, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 0, 7, 0, 0, 0]
+        "Time": "[0, 0, 7, 0, 0, 0]"
       },
       "P4": {
         "Teacher": "Kanchan Manna, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       },
       "P5": {
         "Teacher": "Noel Prashant Ratchagar, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 0, 7, 0]
+        "Time": "[0, 0, 0, 0, 7, 0]"
       }
     }
   },
@@ -1025,7 +1025,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Soumyadip Bandyopadhyay",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1033,13 +1033,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vinayak Shashikant Naik",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Vinayak Shashikant Naik, Neena Goveas",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1047,7 +1047,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Basabdatta Sen Bhattacharya",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     }
   },
@@ -1055,7 +1055,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pravin Mane",
-        "Time": [1, 0, 1, 0, 1, 0]
+        "Time": "[1, 0, 1, 0, 1, 0]"
       }
     }
   },
@@ -1063,13 +1063,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ramprasad Joshi",
-        "Time": [0, 5, 0, 5, 0, 0]
+        "Time": "[0, 5, 0, 5, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Ramprasad Joshi",
-        "Time": [0, 0, 0, 0, 0, 5]
+        "Time": "[0, 0, 0, 0, 0, 5]"
       }
     }
   },
@@ -1077,7 +1077,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Bharat M Deshpande",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     }
   },
@@ -1085,7 +1085,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Soumyadip Bandyopadhyay",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1093,7 +1093,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Soumyadip Bandyopadhyay",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1101,7 +1101,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Soumyadip Bandyopadhyay .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1109,7 +1109,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Soumyadip Bandyopadhyay .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1117,7 +1117,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Soumyadip Bandyopadhyay .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1125,7 +1125,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sujith Thomas",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     }
   },
@@ -1133,7 +1133,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Abhishek Kr Singh",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     }
   },
@@ -1141,7 +1141,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Biju K R",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     }
   },
@@ -1149,7 +1149,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sanjay Kumar Sahay",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -1157,7 +1157,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rizwan Parveen",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     }
   },
@@ -1165,7 +1165,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Soumyadip Bandyopadhyay",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -1173,7 +1173,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chaudhari Vikas Vinayak",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1181,43 +1181,43 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama K R",
-        "Time": [7, 0, 0, 0, 0, 0]
+        "Time": "[7, 0, 0, 0, 0, 0]"
       },
       "L2": {
         "Teacher": "Anupama K R",
-        "Time": [0, 3, 0, 0, 0, 0]
+        "Time": "[0, 3, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anupama K R",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Kanchan Manna",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T3": {
         "Teacher": "Amalin Prince",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Kizheppatt Vipin, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Noel Prashant Ratchagar, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 0, 7, 0, 0, 0]
+        "Time": "[0, 0, 7, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Kanchan Manna, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       },
       "P4": {
         "Teacher": "Noel Prashant Ratchagar, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 0, 7, 0]
+        "Time": "[0, 0, 0, 0, 7, 0]"
       }
     }
   },
@@ -1225,21 +1225,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Narayan Suresh Manjarekar",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       },
       "L2": {
         "Teacher": "Rakesh R Warier",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Narayan Suresh Manjarekar",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Rakesh R Warier",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       }
     }
   },
@@ -1247,21 +1247,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nitin Sharma",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       },
       "L2": {
         "Teacher": "Anurag Nishad",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Nitin Sharma",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       },
       "T2": {
         "Teacher": "Anurag Nishad",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -1269,21 +1269,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dipankar Pal",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       },
       "L2": {
         "Teacher": "Chembiyan T",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Dipankar Pal",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Chembiyan T",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1291,7 +1291,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1299,43 +1299,43 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ramesha C K",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       },
       "L2": {
         "Teacher": "Pramila",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Ramesha C K",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Pramila",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Varun Sharma, Prateek Singh ., Somesula Sivasagar N N ., Afroz Fatima",
-        "Time": [8, 0, 0, 0, 0, 0]
+        "Time": "[8, 0, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Varun Sharma, Prateek Singh ., Somesula Sivasagar N N ., Afroz Fatima",
-        "Time": [0, 8, 0, 0, 0, 0]
+        "Time": "[0, 8, 0, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Pramila, Rahul Bajpai ., Aparna A P .",
-        "Time": [0, 0, 8, 0, 0, 0]
+        "Time": "[0, 0, 8, 0, 0, 0]"
       },
       "P4": {
         "Teacher": "Pramila, Rahul Bajpai ., Aparna A P .",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       },
       "P5": {
         "Teacher": "Ashish Chittora, Manish Varun Yadav .",
-        "Time": [0, 0, 0, 0, 8, 0]
+        "Time": "[0, 0, 0, 0, 8, 0]"
       }
     }
   },
@@ -1343,7 +1343,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sudeep Baudha",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     }
   },
@@ -1351,7 +1351,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Naveen Gupta",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     }
   },
@@ -1359,7 +1359,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1367,7 +1367,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1375,7 +1375,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1383,7 +1383,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1391,7 +1391,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ravi Kadlimatti",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -1399,7 +1399,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nitin Sharma",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     }
   },
@@ -1407,7 +1407,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1415,17 +1415,17 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Arfat Ahmad Sofi/ Rajorshi Sen Gupta",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Arfat Ahmad Sofi/ Renjith Raj ./ Abinash Singh ./ Alavani Helan Alias Vaibhavi Kabirdas",
-        "Time": [0, 9, 0, 0, 0, 0]
+        "Time": "[0, 9, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Rajorshi Sen Gupta/ King David Kweku Botchway ./ Ansari Gulam Goush",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -1433,7 +1433,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Suman Gupta/ Saripalli Venkata Raman/ Naik Sankalp Purushottam .",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -1441,13 +1441,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Richa Shukla",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Richa Shukla/ Alavani Helan Alias Vaibhavi Kabirdas",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       }
     }
   },
@@ -1455,13 +1455,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rajorshi Sen Gupta/ Richa Shukla",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Rajorshi Sen Gupta/ Richa Shukla/ King David Kweku Botchway .",
-        "Time": [0, 8, 0, 0, 0, 0]
+        "Time": "[0, 8, 0, 0, 0, 0]"
       }
     }
   },
@@ -1469,13 +1469,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Debasis Patnaik",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Debasis Patnaik/ Aishwarya Desai ./ Shaikh Sameer Maulasab.",
-        "Time": [0, 9, 0, 0, 0, 0]
+        "Time": "[0, 9, 0, 0, 0, 0]"
       }
     }
   },
@@ -1483,13 +1483,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Arfat Ahmad Sofi",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Arfat Ahmad Sofi/ Revankar Divya Satish .",
-        "Time": [0, 0, 0, 9, 0, 0]
+        "Time": "[0, 0, 0, 9, 0, 0]"
       }
     }
   },
@@ -1497,7 +1497,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Richa Shukla",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1505,7 +1505,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Suman Gupta/ Ram Mohan Menon/ Shaikh SameerMaulasab .",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -1513,13 +1513,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Debasis Patnaik",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Debasis Patnaik/ Aishwarya Desai ./ Abinash Singh .",
-        "Time": [0, 0, 1, 0, 0, 0]
+        "Time": "[0, 0, 1, 0, 0, 0]"
       }
     }
   },
@@ -1527,13 +1527,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Aswini Kumar Mishra",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Aswini Kumar Mishra/ R L Manogna Viswanatha Sreedevi/ Revankar Divya Satish .",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -1541,13 +1541,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mridula Goel",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Pulipilelil Sheetal Thomas ./ Renjith Raj .",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -1555,7 +1555,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Richa Shukla/ Ram Mohan Menon",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -1563,7 +1563,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ritika Jaiswal/ Mayank Parashar",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -1571,7 +1571,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Richa Shukla",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1579,7 +1579,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Richa Shukla",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1587,7 +1587,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Richa Shukla",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1595,7 +1595,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Richa Shukla",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1603,7 +1603,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ritika Jaiswal/ Mayank Parashar",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -1611,7 +1611,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mridula Goel/ Pulipilelil Sheetal Thomas .",
-        "Time": [11, 0, 11, 0, 0, 0]
+        "Time": "[11, 0, 11, 0, 0, 0]"
       }
     }
   },
@@ -1619,7 +1619,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chvvsnv Prasad/ A V S Durga Prasad .",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -1627,7 +1627,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Richa Shukla",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1635,43 +1635,43 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama K R",
-        "Time": [7, 0, 0, 0, 0, 0]
+        "Time": "[7, 0, 0, 0, 0, 0]"
       },
       "L2": {
         "Teacher": "Anupama K R",
-        "Time": [0, 3, 0, 0, 0, 0]
+        "Time": "[0, 3, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anupama K R",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Kanchan Manna",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T3": {
         "Teacher": "Amalin Prince",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Kizheppatt Vipin, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Noel Prashant Ratchagar, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 0, 7, 0, 0, 0]
+        "Time": "[0, 0, 7, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Kanchan Manna, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       },
       "P4": {
         "Teacher": "Noel Prashant Ratchagar, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 0, 7, 0]
+        "Time": "[0, 0, 0, 0, 7, 0]"
       }
     }
   },
@@ -1679,21 +1679,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Narayan Suresh Manjarekar",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       },
       "L2": {
         "Teacher": "Rakesh R Warier",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Narayan Suresh Manjarekar",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Rakesh R Warier",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       }
     }
   },
@@ -1701,21 +1701,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nitin Sharma",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       },
       "L2": {
         "Teacher": "Anurag Nishad",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Nitin Sharma",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       },
       "T2": {
         "Teacher": "Anurag Nishad",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -1723,21 +1723,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dipankar Pal",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       },
       "L2": {
         "Teacher": "Chembiyan T",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Dipankar Pal",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Chembiyan T",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1745,7 +1745,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1753,13 +1753,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Soumyabrata Barik",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Soumyabrata Barik",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -1767,43 +1767,43 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ramesha C K",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       },
       "L2": {
         "Teacher": "Pramila",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Ramesha C K",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Pramila",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Varun Sharma, Prateek Singh ., Somesula Sivasagar N N ., Afroz Fatima",
-        "Time": [8, 0, 0, 0, 0, 0]
+        "Time": "[8, 0, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Varun Sharma, Prateek Singh ., Somesula Sivasagar N N ., Afroz Fatima",
-        "Time": [0, 8, 0, 0, 0, 0]
+        "Time": "[0, 8, 0, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Pramila, Rahul Bajpai ., Aparna A P .",
-        "Time": [0, 0, 8, 0, 0, 0]
+        "Time": "[0, 0, 8, 0, 0, 0]"
       },
       "P4": {
         "Teacher": "Pramila, Rahul Bajpai ., Aparna A P .",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       },
       "P5": {
         "Teacher": "Ashish Chittora, Manish Varun Yadav .",
-        "Time": [0, 0, 0, 0, 8, 0]
+        "Time": "[0, 0, 0, 0, 8, 0]"
       }
     }
   },
@@ -1811,25 +1811,25 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mukund Keshavrao Deshmukh",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Soumyabrata Barik, Gopika R .",
-        "Time": [0, 8, 0, 0, 0, 0]
+        "Time": "[0, 8, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Vivek K P Chandran, Swati Varun Yadav .",
-        "Time": [0, 0, 8, 0, 0, 0]
+        "Time": "[0, 0, 8, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Soumyabrata Barik, Deshpande Shreyas Sureshrao .",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       },
       "P4": {
         "Teacher": "Gautam G Bacher, D R Karthik .",
-        "Time": [0, 0, 0, 0, 8, 0]
+        "Time": "[0, 0, 0, 0, 8, 0]"
       }
     }
   },
@@ -1837,7 +1837,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1845,7 +1845,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1853,7 +1853,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1861,7 +1861,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1869,7 +1869,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama K R",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -1877,7 +1877,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ravi Kadlimatti",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -1885,7 +1885,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nitin Sharma",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     }
   },
@@ -1893,13 +1893,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sarang C Dhongdi",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Sarang C Dhongdi",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       }
     }
   },
@@ -1907,7 +1907,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rakesh R Warier",
-        "Time": [9, 0, 9, 7, 0, 0]
+        "Time": "[9, 0, 9, 7, 0, 0]"
       }
     }
   },
@@ -1915,7 +1915,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -1923,7 +1923,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -1931,7 +1931,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Richa Shukla/ Ram Mohan Menon",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -1939,7 +1939,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ritika Jaiswal/ Mayank Parashar",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -1947,7 +1947,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Suman Gupta/ Ram Mohan Menon/ Shaikh Sameer Maulasab .",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -1955,7 +1955,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Aswini Kumar Mishra/ R L Manogna Viswanatha Sreedevi",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -1963,7 +1963,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Solano Da Silva",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -1971,7 +1971,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rajiv Kumar Chaturvedi",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -1979,7 +1979,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Shalini Upadhyay",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -1987,7 +1987,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mohan Kumar Bera",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -1995,7 +1995,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rudra Prasad Pradhan",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -2003,7 +2003,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Geetha B",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -2011,7 +2011,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Basavadatta Mitra",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -2019,7 +2019,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Basavadatta Mitra",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -2027,7 +2027,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Lakshmi Subramanian",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -2035,7 +2035,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Hareesh Ag",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     }
   },
@@ -2043,7 +2043,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Reena Cheruvalath",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -2051,7 +2051,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Reena Cheruvalath",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2059,7 +2059,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sayantani Sarkar",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -2067,7 +2067,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rudra Prasad Pradhan",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -2075,7 +2075,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Reena Cheruvalath/ Hema Sundaram/ SandhyaP P",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -2083,7 +2083,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rayson Alex",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     }
   },
@@ -2091,7 +2091,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Geetha K A",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -2099,7 +2099,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Bidisha Banerjee",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -2107,7 +2107,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nilak Datta",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     }
   },
@@ -2115,43 +2115,43 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama K R",
-        "Time": [7, 0, 0, 0, 0, 0]
+        "Time": "[7, 0, 0, 0, 0, 0]"
       },
       "L2": {
         "Teacher": "Anupama K R",
-        "Time": [0, 3, 0, 0, 0, 0]
+        "Time": "[0, 3, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anupama K R",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Kanchan Manna",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       },
       "T3": {
         "Teacher": "Amalin Prince",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Kizheppatt Vipin, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Noel Prashant Ratchagar, Joshi Viraj Vilas ., Anjli Verghese",
-        "Time": [0, 0, 7, 0, 0, 0]
+        "Time": "[0, 0, 7, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Kanchan Manna, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       },
       "P4": {
         "Teacher": "Noel Prashant Ratchagar, Ansa Shermin S ., Farhana Firdous",
-        "Time": [0, 0, 0, 0, 7, 0]
+        "Time": "[0, 0, 0, 0, 7, 0]"
       }
     }
   },
@@ -2159,21 +2159,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Narayan Suresh Manjarekar",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       },
       "L2": {
         "Teacher": "Rakesh R Warier",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Narayan Suresh Manjarekar",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Rakesh R Warier",
-        "Time": [0, 1, 0, 0, 0, 0]
+        "Time": "[0, 1, 0, 0, 0, 0]"
       }
     }
   },
@@ -2181,21 +2181,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nitin Sharma",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       },
       "L2": {
         "Teacher": "Anurag Nishad",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Nitin Sharma",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       },
       "T2": {
         "Teacher": "Anurag Nishad",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -2203,21 +2203,21 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dipankar Pal",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       },
       "L2": {
         "Teacher": "Chembiyan T",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Dipankar Pal",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Chembiyan T",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2225,7 +2225,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2233,43 +2233,43 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ramesha C K",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       },
       "L2": {
         "Teacher": "Pramila",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Ramesha C K",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Pramila",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Varun Sharma, Prateek Singh ., Somesula Sivasagar N N ., Afroz Fatima",
-        "Time": [8, 0, 0, 0, 0, 0]
+        "Time": "[8, 0, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Varun Sharma, Prateek Singh ., Somesula Sivasagar N N ., Afroz Fatima",
-        "Time": [0, 8, 0, 0, 0, 0]
+        "Time": "[0, 8, 0, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Pramila, Rahul Bajpai ., Aparna A P .",
-        "Time": [0, 0, 8, 0, 0, 0]
+        "Time": "[0, 0, 8, 0, 0, 0]"
       },
       "P4": {
         "Teacher": "Pramila, Rahul Bajpai ., Aparna A P .",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       },
       "P5": {
         "Teacher": "Ashish Chittora, Manish Varun Yadav .",
-        "Time": [0, 0, 0, 0, 8, 0]
+        "Time": "[0, 0, 0, 0, 8, 0]"
       }
     }
   },
@@ -2277,25 +2277,25 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mukund Keshavrao Deshmukh",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Soumyabrata Barik, Gopika R .",
-        "Time": [0, 8, 0, 0, 0, 0]
+        "Time": "[0, 8, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Vivek K P Chandran, Swati Varun Yadav .",
-        "Time": [0, 0, 8, 0, 0, 0]
+        "Time": "[0, 0, 8, 0, 0, 0]"
       },
       "P3": {
         "Teacher": "Soumyabrata Barik, Deshpande Shreyas Sureshrao .",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       },
       "P4": {
         "Teacher": "Gautam G Bacher, D R Karthik .",
-        "Time": [0, 0, 0, 0, 8, 0]
+        "Time": "[0, 0, 0, 0, 8, 0]"
       }
     }
   },
@@ -2303,13 +2303,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Gautam G Bacher",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Gautam G Bacher",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -2317,7 +2317,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2325,7 +2325,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2333,7 +2333,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2341,7 +2341,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2349,7 +2349,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Abhijit Pethe .",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2357,53 +2357,53 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Jajati Keshari Sahoo/ Anupama Sharma",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       },
       "L8": {
         "Teacher": "Amit Setia/ Himadri Mukherjee",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       },
       "L9": {
         "Teacher": "Amit Setia/ Himadri Mukherjee",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       },
       "L10": {
         "Teacher": "Anil Kumar/ Danumjaya Palla",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       },
       "L11": {
         "Teacher": "Anil Kumar/ Danumjaya Palla",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       },
       "L12": {
         "Teacher": "Anil Kumar/ Danumjaya Palla",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anupama Sharma",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       },
       "T8": {
         "Teacher": "Himadri Mukherjee/ Sandhya Maurya",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       },
       "T9": {
         "Teacher": "Himadri Mukherjee/ Gayatri Maharana",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       },
       "T10": {
         "Teacher": "Anil Kumar/ Pabitra Kumar Pradhan",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       },
       "T11": {
         "Teacher": "Anil Kumar/ Saroja Kumar Panda",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       },
       "T12": {
         "Teacher": "Danumjaya Palla/ Saroja Kumar Panda",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -2411,17 +2411,17 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anushaya Mohapatra",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anushaya Mohapatra/ Arindam Das",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       },
       "T2": {
         "Teacher": "Anushaya Mohapatra/ Sujit Kumar Pradhan",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -2429,13 +2429,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tarkeshwar Singh",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Tarkeshwar Singh",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       }
     }
   },
@@ -2443,7 +2443,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vijay Madhukar Patankar",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -2451,13 +2451,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Amit Setia",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Amit Setia",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     }
   },
@@ -2465,13 +2465,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mayank Goel",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Mayank Goel",
-        "Time": [0, 0, 0, 0, 0, 1]
+        "Time": "[0, 0, 0, 0, 0, 1]"
       }
     }
   },
@@ -2479,13 +2479,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tarkeshwar Singh",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Tarkeshwar Singh",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -2493,13 +2493,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pradeep Boggarapu",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Pradeep Boggarapu",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -2507,13 +2507,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2521,13 +2521,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Danumjaya Palla",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Danumjaya Palla",
-        "Time": [0, 9, 0, 0, 0, 0]
+        "Time": "[0, 9, 0, 0, 0, 0]"
       }
     }
   },
@@ -2535,13 +2535,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mizanur Rahaman",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Mizanur Rahaman",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -2549,13 +2549,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vijay Madhukar Patankar/ Shilpa Gondhali",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Vijay Madhukar Patankar/ Shilpa Gondhali",
-        "Time": [0, 0, 0, 0, 0, 1]
+        "Time": "[0, 0, 0, 0, 0, 1]"
       }
     }
   },
@@ -2563,13 +2563,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Manoj Kumar Pandey",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Manoj Kumar Pandey",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -2577,7 +2577,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -2585,13 +2585,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2599,13 +2599,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2613,13 +2613,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2627,13 +2627,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2641,7 +2641,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Danumjaya Palla",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -2649,7 +2649,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chandradew Sharma",
-        "Time": [1, 0, 1, 1, 0, 0]
+        "Time": "[1, 0, 1, 1, 0, 0]"
       }
     }
   },
@@ -2657,7 +2657,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Prasanta Kumar Das",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -2665,7 +2665,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Jajati Keshari Sahoo",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2673,13 +2673,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pravin M Singru/ Iniyan Thiruselvam N.",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Pravin M Singru/ Iniyan Thiruselvam N.",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -2687,19 +2687,19 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Karthikeyan G",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Karthikeyan G",
-        "Time": [8, 0, 0, 0, 0, 0]
+        "Time": "[8, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Karthikeyan G, Pravin M Singru, Varinder Singh, Kadam Nikhil Rajendra ., Patil Mahesh Madhukar ., Suhas Nayaku Ankalkhope .",
-        "Time": [0, 0, 7, 0, 0, 0]
+        "Time": "[0, 0, 7, 0, 0, 0]"
       }
     }
   },
@@ -2707,19 +2707,19 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Karthikeyan G",
-        "Time": [4, 0, 4, 0, 0, 0]
+        "Time": "[4, 0, 4, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Karthikeyan G",
-        "Time": [0, 0, 0, 0, 4, 0]
+        "Time": "[0, 0, 0, 0, 4, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Karthikeyan G, Pravin M Singru, Waigaonkar Sachin Damodhar Rao, Pozhilsn, Manoj Kumar Hilalpure ",
-        "Time": [0, 0, 0, 8, 0, 0]
+        "Time": "[0, 0, 0, 8, 0, 0]"
       }
     }
   },
@@ -2727,19 +2727,19 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nilesh Dadasaheb Pawar",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Nilesh Dadasaheb Pawar",
-        "Time": [7, 0, 0, 0, 0, 0]
+        "Time": "[7, 0, 0, 0, 0, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Nilesh Dadasaheb Pawar, Abhilash Kumar Tilak, Shibu Clement, Mane Sanjay Pandurang ., Himanshu Pachori, Shandilya Siddhartha Devendra",
-        "Time": [0, 0, 0, 0, 7, 0]
+        "Time": "[0, 0, 0, 0, 7, 0]"
       }
     }
   },
@@ -2747,13 +2747,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mali Kiran Dinkar",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Mali Kiran Dinkar",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2761,13 +2761,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mali Kiran Dinkar",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Mali Kiran Dinkar",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2775,13 +2775,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Devendra Gokul Patil",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Devendra Gokul Patil",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2789,13 +2789,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Waigaonkar Sachin Damodhar Rao",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Waigaonkar Sachin Damodhar Rao, Amal S Siju, Pozhil.S.N ., Dixit Swadesh Sandesh ., Kulkarni Sudhanwa Mahesh ., AdwaitArun Pohane",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       }
     }
   },
@@ -2803,13 +2803,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vadiraj Hemadri",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Vadiraj Hemadri, Pritanshu Ranjan, Abhilash Kumar Tilak, Naveen K S ., Mane Nikhil Shrikant ., Pichika S V V Srihari",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       }
     }
   },
@@ -2817,13 +2817,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sandeep Jose",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Sandeep Jose",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -2831,13 +2831,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Varinder Singh/ Biswajit Das",
-        "Time": [0, 5, 0, 5, 0, 0]
+        "Time": "[0, 5, 0, 5, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Varinder Singh/ Biswajit Das",
-        "Time": [0, 0, 0, 0, 0, 5]
+        "Time": "[0, 0, 0, 0, 0, 5]"
       }
     }
   },
@@ -2845,13 +2845,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ravindra Singh Saluja",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Ravindra Singh Saluja",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2859,13 +2859,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ravindra Singh Saluja",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Ravindra Singh Saluja",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2873,13 +2873,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Amal S Siju",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Amal S Siju",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2887,13 +2887,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Amal S Siju",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Amal S Siju",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2901,7 +2901,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ranjit Patil",
-        "Time": [0, 0, 0, 12, 0, 12]
+        "Time": "[0, 0, 0, 12, 0, 12]"
       }
     }
   },
@@ -2909,7 +2909,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ganesh Madhav Bapat",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -2917,7 +2917,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Siddhartha Tripathi",
-        "Time": [8, 0, 8, 0, 0, 0]
+        "Time": "[8, 0, 8, 0, 0, 0]"
       }
     }
   },
@@ -2925,7 +2925,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ranjit Patil",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2933,7 +2933,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pritanshu Ranjan",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -2941,7 +2941,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Ashwin K.P.",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     }
   },
@@ -2949,13 +2949,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chvvsnv Prasad",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Chvvsnv Prasad/ A V S Durga Prasad ./ Naik Sankalp Purushottam .",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -2963,7 +2963,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sukanta Mondal",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2971,7 +2971,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tarun Kumar Jha",
-        "Time": [11, 0, 11, 11, 0, 0]
+        "Time": "[11, 0, 11, 11, 0, 0]"
       }
     }
   },
@@ -2979,13 +2979,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rudranil Basu",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Rudranil Basu",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -2993,13 +2993,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Kinjal Banerjee",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Kinjal Banerjee",
-        "Time": [0, 0, 0, 1, 0, 0]
+        "Time": "[0, 0, 0, 1, 0, 0]"
       }
     }
   },
@@ -3007,13 +3007,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Arun V Kulkarni",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Arun V Kulkarni",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -3021,11 +3021,11 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Toby Joseph, Swastibrata Bhattacharyya, Aditya Sharma ., Sumit Kumar ., Kiran V .",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Arun V Kulkarni, Teny Theresa John, Saumyen Kundu ., Bhagya Krishnan, Manojkumar V .",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       }
     }
   },
@@ -3033,13 +3033,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Tarun Kumar Jha",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3047,7 +3047,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Prasanta Kumar Das",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -3055,13 +3055,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Teny Theresa John",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Teny Theresa John",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -3069,13 +3069,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Raghunath Ratabole",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Raghunath Ratabole",
-        "Time": [0, 0, 0, 0, 0, 1]
+        "Time": "[0, 0, 0, 0, 0, 1]"
       }
     }
   },
@@ -3083,13 +3083,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Deepak Pachattu",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Deepak Pachattu",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -3097,11 +3097,11 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Nanda Kumar Patincharath, Kinjal Banerjee, Anu RoshiniR, Malavika C ., Kulkarni Sharvari Pradeep ., Ashmita ., Ethirajulu Kannan",
-        "Time": [0, 7, 0, 7, 0, 0]
+        "Time": "[0, 7, 0, 7, 0, 0]"
       },
       "P2": {
         "Teacher": "Prasanta Kumar Das, Prasad Anant Naik, Abhay ., SouravKesharee Sahoo ., Manish Kumar Sharma .",
-        "Time": [0, 7, 0, 7, 0, 0]
+        "Time": "[0, 7, 0, 7, 0, 0]"
       }
     }
   },
@@ -3109,13 +3109,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ram Shanker Patel",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3123,13 +3123,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ram Shanker Patel",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3137,13 +3137,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ethirajulu Kannan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3151,13 +3151,13 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Ethirajulu Kannan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "E": {
       "I1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3165,7 +3165,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Raghunath Ratabole",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -3173,7 +3173,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Prasad Anant Naik",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -3181,13 +3181,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Radhika Vathsan/ Nanda Kumar Patincharath",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Radhika Vathsan/ Nanda Kumar Patincharath",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3195,7 +3195,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Toby Joseph",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -3203,7 +3203,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Teny Theresa John",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -3211,7 +3211,7 @@ export const data = {
     "Research": {
       "R1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3219,13 +3219,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pradeep Boggarapu",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Pradeep Boggarapu",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     }
   },
@@ -3233,13 +3233,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vijay Madhukar Patankar",
-        "Time": [0, 3, 0, 3, 0, 0]
+        "Time": "[0, 3, 0, 3, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Vijay Madhukar Patankar",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3247,13 +3247,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Shilpa Gondhali",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Shilpa Gondhali",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -3261,13 +3261,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anil Kumar",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Anil Kumar",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     }
   },
@@ -3275,7 +3275,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mizanur Rahaman",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -3283,7 +3283,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mayank Goel",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -3291,7 +3291,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama Sharma",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -3299,7 +3299,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Manoj Kumar Pandey",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -3307,13 +3307,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mali Kiran Dinkar",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Mali Kiran Dinkar",
-        "Time": [10, 0, 0, 0, 0, 0]
+        "Time": "[10, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3321,13 +3321,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Shibu Clement",
-        "Time": [3, 0, 3, 0, 3, 0]
+        "Time": "[3, 0, 3, 0, 3, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Shibu Clement",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     }
   },
@@ -3335,13 +3335,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Amal S Siju",
-        "Time": [2, 0, 2, 0, 0, 0]
+        "Time": "[2, 0, 2, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Amal S Siju",
-        "Time": [0, 0, 0, 0, 2, 0]
+        "Time": "[0, 0, 0, 0, 2, 0]"
       }
     }
   },
@@ -3349,13 +3349,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Vadiraj Hemadri",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Vadiraj Hemadri",
-        "Time": [0, 0, 0, 7, 0, 0]
+        "Time": "[0, 0, 0, 7, 0, 0]"
       }
     }
   },
@@ -3363,23 +3363,23 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Abhilash Kumar Tilak",
-        "Time": [0, 2, 0, 2, 0, 2]
+        "Time": "[0, 2, 0, 2, 0, 2]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Abhilash Kumar Tilak",
-        "Time": [0, 0, 0, 0, 10, 0]
+        "Time": "[0, 0, 0, 0, 10, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Abhilash Kumar Tilak, Shibu Clement, Nilesh Dadasaheb Pawar,Vaibhav Joshi, Naveen K S, Mane Nikhil Shrikant, Mane Sanjay Pandurang ",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       },
       "P2": {
         "Teacher": "Abhilash Kumar Tilak, Shibu Clement, Nilesh Dadasaheb Pawar,Vaibhav Joshi, Naveen K S, Mane Nikhil Shrikant, Mane Sanjay Pandurang ",
-        "Time": [0, 0, 9, 0, 0, 0]
+        "Time": "[0, 0, 9, 0, 0, 0]"
       }
     }
   },
@@ -3387,13 +3387,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Iniyan Thiruselvam N",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Iniyan Thiruselvam N",
-        "Time": [0, 10, 0, 0, 0, 0]
+        "Time": "[0, 10, 0, 0, 0, 0]"
       }
     }
   },
@@ -3401,13 +3401,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dhananjay Madhukar Kulkarni",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Dhananjay Madhukar Kulkarni, Ravindra Singh Saluja,Iniyan Thiruselvam N, Kadam Nikhil Rajendra, Dixit Swadesh Sandesh, Vipin Gupta, Kulkarni Sudhanwa Mahesh ",
-        "Time": [0, 0, 0, 0, 2, 0]
+        "Time": "[0, 0, 0, 0, 2, 0]"
       }
     }
   },
@@ -3415,7 +3415,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Siddhartha Tripathi",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -3423,7 +3423,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Varinder Singh",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -3431,7 +3431,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Mukund Keshavrao Deshmukh",
-        "Time": [9, 0, 0, 9, 9, 0]
+        "Time": "[9, 0, 0, 9, 9, 0]"
       }
     }
   },
@@ -3439,7 +3439,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pritanshu Ranjan",
-        "Time": [2, 0, 2, 7, 0, 0]
+        "Time": "[2, 0, 2, 7, 0, 0]"
       }
     }
   },
@@ -3447,7 +3447,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pravin M Singru",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -3455,7 +3455,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sandeep Singh",
-        "Time": [3, 9, 3, 0, 0, 0]
+        "Time": "[3, 9, 3, 0, 0, 0]"
       }
     }
   },
@@ -3463,7 +3463,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Biswajit Das",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -3471,7 +3471,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Nilesh Dadasaheb Pawar/ Vaibhav Joshi",
-        "Time": [2, 0, 2, 7, 0, 0]
+        "Time": "[2, 0, 2, 7, 0, 0]"
       }
     }
   },
@@ -3479,7 +3479,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dhananjay Madhukar Kulkarni",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     }
   },
@@ -3487,7 +3487,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dipankar Pal",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -3495,7 +3495,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Pravin Mane",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     }
   },
@@ -3503,7 +3503,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chembiyan T",
-        "Time": [11, 11, 11, 0, 0, 0]
+        "Time": "[11, 11, 11, 0, 0, 0]"
       }
     }
   },
@@ -3511,7 +3511,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Dipankar Pal",
-        "Time": [4, 0, 4, 0, 4, 0]
+        "Time": "[4, 0, 4, 0, 4, 0]"
       }
     }
   },
@@ -3519,7 +3519,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Anupama K R",
-        "Time": [0, 10, 0, 10, 10, 0]
+        "Time": "[0, 10, 0, 10, 10, 0]"
       }
     }
   },
@@ -3527,7 +3527,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Varun Sharma",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   },
@@ -3535,7 +3535,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chvvsnv Prasad/ A V S Durga Prasad",
-        "Time": [10, 0, 0, 10, 0, 0]
+        "Time": "[10, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -3543,7 +3543,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Devendra Gokul Patil",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -3551,7 +3551,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Waigaonkar Sachin Damodhar Rao",
-        "Time": [5, 0, 5, 0, 5, 0]
+        "Time": "[5, 0, 5, 0, 5, 0]"
       }
     }
   },
@@ -3559,13 +3559,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Toby Joseph",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Toby Joseph",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -3573,69 +3573,69 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [2, 0, 0, 0, 0, 0]
+        "Time": "[2, 0, 0, 0, 0, 0]"
       },
       "L2": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [2, 0, 0, 0, 0, 0]
+        "Time": "[2, 0, 0, 0, 0, 0]"
       },
       "L3": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [2, 0, 0, 0, 0, 0]
+        "Time": "[2, 0, 0, 0, 0, 0]"
       },
       "L4": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [2, 0, 0, 0, 0, 0]
+        "Time": "[2, 0, 0, 0, 0, 0]"
       },
       "L5": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [0, 2, 0, 0, 0, 0]
+        "Time": "[0, 2, 0, 0, 0, 0]"
       },
       "L6": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [0, 2, 0, 0, 0, 0]
+        "Time": "[0, 2, 0, 0, 0, 0]"
       },
       "L7": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [0, 2, 0, 0, 0, 0]
+        "Time": "[0, 2, 0, 0, 0, 0]"
       },
       "L8": {
         "Teacher": "Deepak Pn/ Kinjal Banerjee/ Ram Shanker Patel/ Nanda Kumar Patincharath ",
-        "Time": [0, 2, 0, 0, 0, 0]
+        "Time": "[0, 2, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Raghunath Ratabole/ Deepak Pn",
-        "Time": [0, 0, 2, 0, 2, 0]
+        "Time": "[0, 0, 2, 0, 2, 0]"
       },
       "T2": {
         "Teacher": "Raghunath Ratabole/ Kinjal Banerjee",
-        "Time": [0, 0, 2, 7, 0, 0]
+        "Time": "[0, 0, 2, 7, 0, 0]"
       },
       "T3": {
         "Teacher": "Raghunath Ratabole/ Ram Shanker Patel",
-        "Time": [0, 0, 2, 0, 2, 0]
+        "Time": "[0, 0, 2, 0, 2, 0]"
       },
       "T4": {
         "Teacher": "Raghunath Ratabole/ Nanda Kumar Patincharath",
-        "Time": [0, 0, 2, 0, 2, 0]
+        "Time": "[0, 0, 2, 0, 2, 0]"
       },
       "T5": {
         "Teacher": "Raghunath Ratabole/ Deepak Pn",
-        "Time": [0, 0, 0, 2, 0, 2]
+        "Time": "[0, 0, 0, 2, 0, 2]"
       },
       "T6": {
         "Teacher": "Raghunath Ratabole/ Kinjal Banerjee",
-        "Time": [0, 0, 0, 2, 0, 2]
+        "Time": "[0, 0, 0, 2, 0, 2]"
       },
       "T7": {
         "Teacher": "Raghunath Ratabole/ Ram Shanker Patel",
-        "Time": [0, 0, 0, 2, 0, 2]
+        "Time": "[0, 0, 0, 2, 0, 2]"
       },
       "T8": {
         "Teacher": "Raghunath Ratabole/ Nanda Kumar Patincharath",
-        "Time": [0, 0, 0, 2, 0, 2]
+        "Time": "[0, 0, 0, 2, 0, 2]"
       }
     }
   },
@@ -3643,13 +3643,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Arun V Kulkarni",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Arun V Kulkarni",
-        "Time": [0, 7, 0, 0, 0, 0]
+        "Time": "[0, 7, 0, 0, 0, 0]"
       }
     }
   },
@@ -3657,7 +3657,7 @@ export const data = {
     "Practicals": {
       "P1": {
         "Teacher": "Nanda Kumar Patincharath, Swastibrata Bhattacharyya, Teny Theresa John, Toby Joseph, Prasad Anant Naik, Sumit Kumar, Kulkarni Sharvari Pradeep, Saumyen Kundu, Payel Sarkar ",
-        "Time": [0, 8, 0, 9, 0, 0]
+        "Time": "[0, 8, 0, 9, 0, 0]"
       }
     }
   },
@@ -3665,13 +3665,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [8, 0, 8, 0, 8, 0]
+        "Time": "[8, 0, 8, 0, 8, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 11, 0, 0, 0, 0]
+        "Time": "[0, 11, 0, 0, 0, 0]"
       }
     }
   },
@@ -3679,13 +3679,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Chandradew Sharma",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Chandradew Sharma",
-        "Time": [0, 0, 0, 10, 0, 0]
+        "Time": "[0, 0, 0, 10, 0, 0]"
       }
     }
   },
@@ -3693,13 +3693,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Gaurav Dar",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Gaurav Dar",
-        "Time": [0, 0, 10, 0, 0, 0]
+        "Time": "[0, 0, 10, 0, 0, 0]"
       }
     }
   },
@@ -3707,7 +3707,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Prasanta Kumar Das",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -3715,7 +3715,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Prasad Anant Naik",
-        "Time": [2, 0, 2, 0, 2, 0]
+        "Time": "[2, 0, 2, 0, 2, 0]"
       }
     }
   },
@@ -3723,13 +3723,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Arun V Kulkarni",
-        "Time": [9, 0, 9, 0, 9, 0]
+        "Time": "[9, 0, 9, 0, 9, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Arun V Kulkarni",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3737,7 +3737,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Radhika Vathsan",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     }
   },
@@ -3745,13 +3745,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Kinjal Banerjee",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Radhika Vathsan/ Kinjal Banerjee/ Deepak Pn",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3759,13 +3759,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Toby Joseph",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     },
     "Tutorials": {
       "T1": {
         "Teacher": "Toby Joseph/ Gaurav Dar/ Chandradew Sharma",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3773,13 +3773,13 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Srikanth Mutnuri",
-        "Time": [0, 5, 0, 5, 0, 5]
+        "Time": "[0, 5, 0, 5, 0, 5]"
       }
     },
     "Practicals": {
       "P1": {
         "Teacher": "Srikanth Mutnuri, Anumeha Vats, Punyapwar Swapnil Vinod, Patil Prajakta Pratap, Ravi Kiran K, Rajashree Yaragal R, Shaikh Aatiya Nishaat ",
-        "Time": [0, 0, 0, 0, 0, 0]
+        "Time": "[0, 0, 0, 0, 0, 0]"
       }
     }
   },
@@ -3787,7 +3787,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Tusar Tirtha Saha",
-        "Time": [0, 4, 0, 4, 0, 4]
+        "Time": "[0, 4, 0, 4, 0, 4]"
       }
     }
   },
@@ -3795,7 +3795,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Sayantani Sarkar",
-        "Time": [0, 3, 0, 3, 0, 3]
+        "Time": "[0, 3, 0, 3, 0, 3]"
       }
     }
   },
@@ -3803,7 +3803,7 @@ export const data = {
     "Lectures": {
       "L1": {
         "Teacher": "Rizwan Parveen",
-        "Time": [7, 0, 7, 0, 7, 0]
+        "Time": "[7, 0, 7, 0, 7, 0]"
       }
     }
   }
@@ -3827,6 +3827,7 @@ export const colors = [
 ]
 
 export const fullname = {
+  BIO_F215:"Biophysics",
   BIO_F216:"Water, Sanitation And Solid Waste Management",
   BIO_F217:"Laboratory For Water, Sanitation And Solid Waste Management",
   BIO_F241:"Ecology & Environ Sci",
